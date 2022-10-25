@@ -1,0 +1,14 @@
+{
+  "name": "mycode",
+  "version": "1.0.0",
+  "description": "\"Bai tap ve nha\"",
+  "main": "app.js",
+  "scripts": {
+    "node": "app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
